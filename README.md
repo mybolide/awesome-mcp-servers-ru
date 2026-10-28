@@ -90,8 +90,10 @@ MCP — это **стандартизированный способ**, кото
 
 ## Devtools
 
+- **coding-tools-mcp** — настольный сервер для кодинг-агентов: каркас проекта, поиск по коду, зависимости и сборка. [GitHub](https://github.com/mybolide/coding-tools-mcp)
 - **pylance-mcp** — type checking, refactoring, syntax errors для Python.
 - **context7** — актуальная документация по библиотекам и фреймворкам.
+- **mcp-probe-kit** — самопроверка MCP-серверов: прогоняет все tools, resources и prompts, показывает здоровье, задержки и дрейф схем. [GitHub](https://github.com/mybolide/mcp-probe-kit)
 - **sentry-mcp** — issues и performance из Sentry.
 - **sqlite-mcp** — для отладки локальных БД.
 
